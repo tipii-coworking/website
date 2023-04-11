@@ -1,1 +1,23 @@
+# maven
+target
+
+# idea
+.idea
+*.iws
+*.ipr
+*.iml
+
+# generated content
+generated
+
+# generated images (asciidoctor-diagram)
+.asciidoctor
+generated_*.svg
+generated_*.png
+
+# node
+.node
+node_modules
+
+# macos
 .DS_Store
